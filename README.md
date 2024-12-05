@@ -1,5 +1,4 @@
-<img src="https://raw.githubusercontent.com/LTabaro/GenAI-Avatar-Generator/main/src/assets/ai-avatar-5.png" alt="AI Avatar" style="width:800px; height:200px; margin:10px;" />
-
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffifthsun.com%2Fcollections%2Fmarvel-clothing%3Fpage%3D26&psig=AOvVaw0vzibXWAEN0IBzZACgo8Fg&ust=1733508957430000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPjZ67-gkYoDFQAAAAAdAAAAABAE" style="width:800px; height:200px; margin:10px;" />
 
 ***
 
@@ -48,8 +47,8 @@ Step into the future of gaming with the **AI Avatar & Story Generator**—a powe
   <img src="https://raw.githubusercontent.com/LTabaro/GenAI-Avatar-Generator/main/src/assets/Hero.png" alt="Superhero Avatar" style="width:200px; height:auto; margin:10px;" />
   <img src="https://raw.githubusercontent.com/LTabaro/GenAI-Avatar-Generator/main/src/assets/batman.png" alt="Batman Avatar" style="width:200px; height:auto; margin:10px;" />
   <img src="https://raw.githubusercontent.com/LTabaro/GenAI-Avatar-Generator/main/src/assets/hulk.png" alt="Hulk Avatar" style="width:200px; height:auto; margin:10px;" />
-    <img src="https://raw.githubusercontent.com/LTabaro/GenAI-Avatar-Generator/main/src/assets/thor.png" alt="Thor" style="width:200px; height:auto; margin:10px;" />
-    <img src="https://raw.githubusercontent.com/LTabaro/GenAI-Avatar-Generator/main/src/assets/ai-avatar.png" alt="AI Avatar" style="width:200px; height:auto; margin:10px;" />
+  <img src="https://raw.githubusercontent.com/LTabaro/GenAI-Avatar-Generator/main/src/assets/thor.png" alt="Thor" style="width:200px; height:auto; margin:10px;" />
+
 </div>
 
 <div align="center">
@@ -57,7 +56,6 @@ Step into the future of gaming with the **AI Avatar & Story Generator**—a powe
   <img src="https://raw.githubusercontent.com/LTabaro/GenAI-Avatar-Generator/main/src/assets/Elf.png" alt="Elf Avatar" style="width:200px; height:auto; margin:10px;" />
   <img src="https://raw.githubusercontent.com/LTabaro/GenAI-Avatar-Generator/main/src/assets/Hobbit.png" alt="Hobbit Avatar" style="width:200px; height:auto; margin:10px;" />
   <img src="https://raw.githubusercontent.com/LTabaro/GenAI-Avatar-Generator/main/src/assets/Jedi.png" alt="Jedi" style="width:200px; height:auto; margin:10px;" />
-  <img src="https://raw.githubusercontent.com/LTabaro/GenAI-Avatar-Generator/main/src/assets/knight.png" alt="Knight" style="width:200px; height:auto; margin:10px;" />
 </div>
 
 ---
