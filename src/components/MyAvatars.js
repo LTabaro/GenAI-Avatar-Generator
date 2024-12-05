@@ -7,6 +7,7 @@ const MyAvatars = () => {
     // Load avatars from local storage
     const storedAvatars = JSON.parse(localStorage.getItem('myAvatars')) || [];
     setAvatars(storedAvatars);
+    // localStorage.clear(); // uncomment line this to clear local storage
   }, []);
 
   return (
