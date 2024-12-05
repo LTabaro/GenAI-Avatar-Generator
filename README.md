@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/LTabaro/GenAI-Avatar-Generator/main/src/assets/MARVEL_Banner_.png" alt="Superhero Avatar" style="width:1000px; height:auto; margin:10px;" />
+<img src="https://raw.githubusercontent.com/LTabaro/GenAI-Avatar-Generator/main/src/assets/MARVEL_Banner_.jpg" alt="Marvel Banner" style="width:1000px; height:auto; margin:10px;" />
 
 ***
 
