@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/LTabaro/GenAI-Avatar-Generator/src/assets/ai-avatar-5.png">
+<img src="https://raw.githubusercontent.com/LTabaro/GenAI-Avatar-Generator/main/src/assets/ai-avatar-5.png">
 
 ***
 
@@ -31,6 +31,12 @@ Step into the future of gaming with the **AI Avatar & Story Generator**—a powe
 - Narration support with cutting-edge text-to-speech.
 - Vegas-themed customization options.
 - Comprehensive AI prompt library.
+
+* **Studio-Grade Avatar Generation**: Create ultra-realistic, game-ready avatars using state-of-the-art AI. 
+* **Story Mode**: Generate rich, engaging narratives for your characters. From casino heists to intergalactic adventures, your imagination is the limit.
+* **Vegas-Themed Customization**: Tailor your avatars and stories with a Vegas-inspired aesthetic, perfect for extending the world of Vegas Infinite.
+* **AI Prompts Library**: Get inspired with pre-designed prompts or add your own to craft unique avatars and storylines.
+* **Dynamic Visuals & Audio**: Bring stories to life with AI-powered narration and stunning visuals.
 
 
 ---
