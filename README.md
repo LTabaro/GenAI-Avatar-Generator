@@ -1,4 +1,4 @@
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffifthsun.com%2Fcollections%2Fmarvel-clothing%3Fpage%3D26&psig=AOvVaw0vzibXWAEN0IBzZACgo8Fg&ust=1733508957430000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPjZ67-gkYoDFQAAAAAdAAAAABAE" style="width:800px; height:200px; margin:10px;" />
+<img src="https://raw.githubusercontent.com/LTabaro/GenAI-Avatar-Generator/main/src/assets/MARVEL_Banner_.png" alt="Superhero Avatar" style="width:1000px; height:auto; margin:10px;" />
 
 ***
 
