@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/LTabaro/GenAI-Avatar-Generator/main/src/assets/ai-avatar-5.png" alt="AI Avatar" style="width:800px; height:auto; margin:10px;" />
+<img src="https://raw.githubusercontent.com/LTabaro/GenAI-Avatar-Generator/main/src/assets/ai-avatar-5.png" alt="AI Avatar" style="width:800px; height:200px; margin:10px;" />
 
 
 ***
@@ -35,9 +35,10 @@ Step into the future of gaming with the **AI Avatar & Story Generator**—a powe
 
 * **Studio-Grade Avatar Generation**: Create ultra-realistic, game-ready avatars using state-of-the-art AI. 
 * **Story Mode**: Generate rich, engaging narratives for your characters. From casino heists to intergalactic adventures, your imagination is the limit.
+* * **Dynamic Visuals & Audio**: Bring stories to life with AI-powered narration and stunning visuals.
 * **Vegas-Themed Customization**: Tailor your avatars and stories with a Vegas-inspired aesthetic, perfect for extending the world of Vegas Infinite.
 * **AI Prompts Library**: Get inspired with pre-designed prompts or add your own to craft unique avatars and storylines.
-* **Dynamic Visuals & Audio**: Bring stories to life with AI-powered narration and stunning visuals.
+
 
 
 ---
@@ -47,12 +48,16 @@ Step into the future of gaming with the **AI Avatar & Story Generator**—a powe
   <img src="https://raw.githubusercontent.com/LTabaro/GenAI-Avatar-Generator/main/src/assets/Hero.png" alt="Superhero Avatar" style="width:200px; height:auto; margin:10px;" />
   <img src="https://raw.githubusercontent.com/LTabaro/GenAI-Avatar-Generator/main/src/assets/batman.png" alt="Batman Avatar" style="width:200px; height:auto; margin:10px;" />
   <img src="https://raw.githubusercontent.com/LTabaro/GenAI-Avatar-Generator/main/src/assets/hulk.png" alt="Hulk Avatar" style="width:200px; height:auto; margin:10px;" />
+    <img src="https://raw.githubusercontent.com/LTabaro/GenAI-Avatar-Generator/main/src/assets/thor.png" alt="Thor" style="width:200px; height:auto; margin:10px;" />
+    <img src="https://raw.githubusercontent.com/LTabaro/GenAI-Avatar-Generator/main/src/assets/ai-avatar.png" alt="AI Avatar" style="width:200px; height:auto; margin:10px;" />
 </div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/LTabaro/GenAI-Avatar-Generator/main/src/assets/ai-avatar-5.png" alt="AI Avatar" style="width:200px; height:auto; margin:10px;" />
   <img src="https://raw.githubusercontent.com/LTabaro/GenAI-Avatar-Generator/main/src/assets/Elf.png" alt="Elf Avatar" style="width:200px; height:auto; margin:10px;" />
   <img src="https://raw.githubusercontent.com/LTabaro/GenAI-Avatar-Generator/main/src/assets/Hobbit.png" alt="Hobbit Avatar" style="width:200px; height:auto; margin:10px;" />
+  <img src="https://raw.githubusercontent.com/LTabaro/GenAI-Avatar-Generator/main/src/assets/Jedi.png" alt="Jedi" style="width:200px; height:auto; margin:10px;" />
+  <img src="https://raw.githubusercontent.com/LTabaro/GenAI-Avatar-Generator/main/src/assets/knight.png" alt="Knight" style="width:200px; height:auto; margin:10px;" />
 </div>
 
 ---
