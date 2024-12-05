@@ -1,4 +1,5 @@
-<img src="https://raw.githubusercontent.com/LTabaro/GenAI-Avatar-Generator/main/src/assets/ai-avatar-5.png">
+<img src="https://raw.githubusercontent.com/LTabaro/GenAI-Avatar-Generator/main/src/assets/ai-avatar-5.png" alt="AI Avatar" style="width:200px; height:auto; margin:10px;" />
+
 
 ***
 
